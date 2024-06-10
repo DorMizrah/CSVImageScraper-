@@ -24,8 +24,23 @@ CSVImageScraper is a Python project designed to automate the downloading of imag
 !pip install pandas requests gdown
 
 3. **Clone the Repository:**
-
+```
 git clone https://github.com/yourusername/CSVImageScraper.git
 cd CSVImageScraper
 ```
 
+## Usage
+      
+1. **Set Up Variables:**
+Change the variables for each new CSV file:
+
+```
+csv_file_id = 'your_csv_file_id'  # Google Drive file ID of the CSV
+csv_file_name = 'your_csv_file_name'  # Desired name for the CSV file without .csv extension
+max_images = 10  # Maximum number of images to download and display
+```
+
+2. **Run the Script:**
+
+
+       
