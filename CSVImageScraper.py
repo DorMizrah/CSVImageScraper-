@@ -12,8 +12,8 @@ import requests
 import gdown
 
 # CHANGE THESE VARIABLES FOR EACH NEW CSV FILE
-csv_file_id = '1Z3XcPrll3KCLw0UBH68b1lr1WaSkvP1n'  # Google Drive file ID of the CSV
-csv_file_name = 'Zebrasoma_xanthurum'  # Desired name for the CSV file without .csv extension
+csv_file_id = ''  # Google Drive file ID of the CSV
+csv_file_name = ''  # Desired name for the CSV file without .csv extension
 max_images = 400  # Maximum number of images to download and display
 
 # Define local paths
