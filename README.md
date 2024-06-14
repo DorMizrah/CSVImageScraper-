@@ -21,7 +21,7 @@ CSVImageScraper is a Python project designed to automate the downloading of imag
 
 2. **Install Required Libraries:**
 
-```!pip install pandas requests gdown```
+```pip install pandas requests gdown```
 
 3. **Clone the Repository:**
 ```
